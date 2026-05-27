@@ -56,9 +56,6 @@ Below are visual showcases of the terminal interface running in active environme
 
 ---
 
----
-
----
 
 ## 🎥 Video Assets
 
@@ -66,45 +63,40 @@ AI-Reel-Agent does not include bundled background footage.
 
 To use the engine properly, simply upload your own long-form videos inside the `videos/` directory.
 
-The system is designed to automatically:
+The automation pipeline is designed to automatically:
 - scan available videos
-- pick random segments
-- trim cinematic clips
-- crop for vertical reels
-- sync visuals with generated scripts
-- reuse footage dynamically across multiple renders
+- select random cinematic segments
+- trim clips dynamically
+- crop footage for vertical reels
+- synchronize visuals with generated scripts
+- reuse clips intelligently across multiple renders
 
-### Recommended Setup
+## Recommended Setup
 
-Instead of uploading many short clips, add:
+Instead of adding many short clips, simply add:
 - 1–2 long videos (recommended 10–100+ minutes)
 - high-quality gameplay or cinematic footage
 - smooth motion scenes with minimal UI clutter
 
-### Best Results
-Recommended video styles:
+### Recommended Video Styles
 - Minecraft parkour gameplay
 - Luxury lifestyle visuals
 - Cinematic B-roll
 - Driving footage
 - Motivational edits
-- AI / futuristic visuals
+- Futuristic / AI visuals
 
 ### Supported Formats
 - `.mp4`
 - `.mov`
 - `.mkv`
 
-### Example
+### Example Directory Structure
 
 ```plaintext
 videos/
 ├── minecraft_parkour.mp4
 └── luxury_cars.mp4
-```
- 
-## 🛠️ System Architecture
-
 The project is structured logically into dedicated components separating terminal presentation from the underlying media generation engines:
 
 AI-Reel-Agent/
