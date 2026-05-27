@@ -101,12 +101,12 @@ Recommended video styles:
 videos/
 ├── minecraft_parkour.mp4
 └── luxury_cars.mp4
-
+```
+ 
 ## 🛠️ System Architecture
 
 The project is structured logically into dedicated components separating terminal presentation from the underlying media generation engines:
 
-```
 AI-Reel-Agent/
 ├── cli/                 # Terminal UI Components
 │   ├── animations.py    # Cinematic typewriter and text transition effects
