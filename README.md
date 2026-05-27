@@ -56,6 +56,28 @@ Below are visual showcases of the terminal interface running in active environme
 
 ---
 
+---
+
+## 🎥 Video Assets
+
+Background videos are **not bundled** with the repository.
+
+Upload your own clips inside the `videos/` directory and AI-Reel-Agent will automatically detect and use them during generation.
+
+### Recommended Content
+- Minecraft gameplay
+- Luxury visuals
+- Cinematic B-roll
+- Motivational edits
+- Vertical 1080x1920 clips
+
+### Supported Formats
+- `.mp4`
+- `.mov`
+- `.mkv`
+
+> No copyrighted videos are included in this repository.
+
 ## 🛠️ System Architecture
 
 The project is structured logically into dedicated components separating terminal presentation from the underlying media generation engines:
