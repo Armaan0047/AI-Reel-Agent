@@ -1,0 +1,228 @@
+{
+  "hooks": {
+    "templates": [
+      "Stop telling people your {adjective} {plans}. Show them your {results} instead.",
+      "A sigma does not {flex}. A sigma lets {adjective} {results} speak.",
+      "Build in the {dark}. Shine in the {adjective} {light}."
+    ],
+    "replacements": {
+      "adjective": [
+        "silent",
+        "lethal",
+        "ruthless",
+        "dangerous",
+        "unseen",
+        "obsessed",
+        "sovereign",
+        "unpredictable",
+        "stoic",
+        "formidable"
+      ],
+      "plans": [
+        "plans",
+        "dreams",
+        "next moves",
+        "goals",
+        "secrets",
+        "strategies",
+        "business concepts",
+        "visions",
+        "ambitions",
+        "ideas"
+      ],
+      "results": [
+        "results",
+        "outcomes",
+        "bank accounts",
+        "empires",
+        "success",
+        "dynasty",
+        "achievements",
+        "work ethic",
+        "quiet growth",
+        "silent leverage"
+      ],
+      "flex": [
+        "flex",
+        "brag",
+        "post on social media",
+        "loudly talk",
+        "seek validation",
+        "seek attention",
+        "show off",
+        "gossip",
+        "explain himself",
+        "argue"
+      ],
+      "dark": [
+        "dark",
+        "shadows",
+        "silence",
+        "background",
+        "depth of isolation",
+        "quiet hours",
+        "unseen grind"
+      ],
+      "light": [
+        "light",
+        "spotlight",
+        "results",
+        "wealth",
+        "sovereign stage",
+        "glorious day",
+        "success"
+      ]
+    }
+  },
+  "body": {
+    "templates": [
+      "While {competitors} {distraction}, you {action}.",
+      "The system was designed to keep you {state}. Smart people are focusing on {focus}.",
+      "Choose the pain of {discipline} over the pain of {regret}. Regret is forever."
+    ],
+    "replacements": {
+      "competitors": [
+        "99% of people",
+        "everyone around you",
+        "the masses",
+        "ordinary minds",
+        "average people",
+        "the crowd",
+        "your peers",
+        "the mediocre",
+        "the distracted",
+        "the scroll-addicted"
+      ],
+      "distraction": [
+        "are partying",
+        "are wasting time scrolling",
+        "are chasing temporary thrills",
+        "are sleeping in",
+        "are complaining about the system",
+        "are making excuses",
+        "are resting on their laurels",
+        "are living for the weekend",
+        "are waiting for luck",
+        "are talking about gossip"
+      ],
+      "action": [
+        "grind in silence",
+        "are building your legacy",
+        "focus on self-mastery",
+        "compounded your skills",
+        "are outworking everybody else",
+        "are investing in your own destiny",
+        "execute daily tasks without mercy",
+        "are mastering high-income assets",
+        "are crafting a dynasty",
+        "study the secrets of leverage"
+      ],
+      "state": [
+        "distracted",
+        "broke",
+        "dependent",
+        "comfortable",
+        "obedient",
+        "busy doing nothing",
+        "blinded by media",
+        "trapped in debt",
+        "clueless about finance",
+        "just getting by"
+      ],
+      "focus": [
+        "high-income skills",
+        "building cash flow assets",
+        "escaping the rat race",
+        "generational power",
+        "sovereign freedom",
+        "relentless daily execution",
+        "mastering leverage",
+        "compounding in silence",
+        "building a real empire",
+        "unwavering focus"
+      ],
+      "discipline": [
+        "discipline",
+        "relentless daily grind",
+        "self-mastery",
+        "silent execution",
+        "ruthless work",
+        "unforgiving focus",
+        "sacrificing comfort",
+        "grinding in the dark",
+        "showing up daily",
+        "outworking your past"
+      ],
+      "regret": [
+        "regret",
+        "average mediocrity",
+        "slow failure",
+        "living a basic life",
+        "a lifetime of excuses",
+        "wasted potential",
+        "being left behind",
+        "staying ordinary",
+        "fitting in",
+        "being forgotten"
+      ]
+    }
+  },
+  "endings": {
+    "templates": [
+      "Be the {adjective} {target} that actually takes action today.",
+      "Your {adjective} {future} is begging you to start.",
+      "Let your {adjective} {results} do the talking.",
+      "Every day you show up is a step closer to your {adjective} {future}."
+    ],
+    "replacements": {
+      "adjective": [
+        "unbelievable",
+        "insane",
+        "ruthless",
+        "unforgiving",
+        "massive",
+        "silent",
+        "lethal",
+        "unstoppable",
+        "disciplined",
+        "obsessed"
+      ],
+      "target": [
+        "one percent",
+        "formidable few",
+        "leader of your destiny",
+        "sovereign builder",
+        "unstoppable force",
+        "silent conqueror",
+        "obsessed builder",
+        "new dynasty ruler",
+        "exception to the rule",
+        "master of your fate"
+      ],
+      "future": [
+        "future self",
+        "tomorrow self",
+        "legacy",
+        "next chapter",
+        "sovereign self",
+        "destiny",
+        "unwritten empire",
+        "ultimate self",
+        "inner beast",
+        "hidden genius"
+      ],
+      "results": [
+        "results",
+        "empire",
+        "success",
+        "wealth",
+        "sovereignty",
+        "legacy",
+        "execution",
+        "formidable build",
+        "silent power",
+        "unstoppable compound"
+      ]
+    }
+  }
+}

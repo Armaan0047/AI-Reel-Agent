@@ -1,0 +1,17 @@
+# ==========================================
+#  AI Reel Agent — Production Dependencies
+# ==========================================
+
+# Core Synthesis & Media Encoding
+edge-tts>=6.1.0
+imageio-ffmpeg>=0.4.9
+
+# Cinematic CLI Terminal User Interface
+rich>=13.7.0
+pyfiglet>=1.0.2
+
+# Standalone Executable Packaging
+pyinstaller>=6.2.0
+
+# Optional: Premium Voices (Uncomment if using ElevenLabs)
+# elevenlabs>=1.0.0

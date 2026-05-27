@@ -1,0 +1,28 @@
+# ==========================================
+#  AI Reel Agent — Git Attributes
+# ==========================================
+
+# Auto-detect text files and perform line-ending normalization (LF on checkout)
+* text=auto
+
+# Enforce LF endings on python files and configuration docs
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.gitignore text eol=lf
+*.gitattributes text eol=lf
+
+# Enforce CRLF endings on Windows batch script launchers
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Label binary media and fonts
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.mp4 binary
+*.mp3 binary
+*.ttf binary

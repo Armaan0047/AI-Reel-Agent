@@ -1,0 +1,58 @@
+# ==========================================
+#  AI Reel Agent — Production Gitignore
+# ==========================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+bin/
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+*.manifest
+*.spec
+
+# Caches and virtual environments
+venv/
+.venv/
+env/
+.env
+.env.local
+.env.development
+.env.staging
+.env.production
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Dynamic project folders (retained via .gitkeep)
+reels/*
+!reels/.gitkeep
+outputs/*
+!outputs/.gitkeep
+voices/*
+!voices/.gitkeep
+temp/*
+!temp/.gitkeep
+logs/*
+!logs/.gitkeep
+music_cache/*
+!music_cache/.gitkeep
+
+# Large multimedia user assets (background videos)
+videos/*.mp4
+videos/*.mov
+videos/*.avi
+videos/*.mkv
+videos/*.webm
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

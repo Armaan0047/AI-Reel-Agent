@@ -1,0 +1,212 @@
+{
+  "hooks": {
+    "templates": [
+      "Nobody is coming to {action_hook}. Read that again.",
+      "Your {place} is the most dangerous place you can be.",
+      "Everyone wants the {adjective} {desire}, but nobody wants the {work}.",
+      "If you want to {adjective} {achieve}, you must first {sacrifice}."
+    ],
+    "replacements": {
+      "action_hook": [
+        "secure your phone",
+        "protect your identity",
+        "encrypt your data",
+        "guard your passwords"
+      ],
+      "place": [
+        "first class cabin",
+        "penthouse balcony",
+        "yacht deck",
+        "sovereign office",
+        "ferrari driver seat",
+        "luxury retreat",
+        "billionaire club"
+      ],
+      "adjective": [
+        "unbelievable",
+        "insane",
+        "ruthless",
+        "unforgiving",
+        "massive",
+        "silent",
+        "lethal",
+        "unstoppable",
+        "disciplined",
+        "obsessed"
+      ],
+      "desire": [
+        "lifestyle",
+        "luxury life",
+        "wealth",
+        "freedom",
+        "success",
+        "results",
+        "financial independence",
+        "trophy",
+        "crown",
+        "victory"
+      ],
+      "work": [
+        "grind",
+        "discipline",
+        "silent build",
+        "daily hustle",
+        "hard sacrifice",
+        "unforgiving outwork",
+        "dark years of building",
+        "painful consistency",
+        "early mornings",
+        "sleepless grind"
+      ],
+      "achieve": [
+        "conquer the market",
+        "own your future",
+        "build an empire",
+        "reach the peak",
+        "rule your life",
+        "escape the crowd"
+      ],
+      "sacrifice": [
+        "embrace the pain",
+        "pay the price",
+        "kill your excuses",
+        "outwork the average",
+        "conquer your mind",
+        "sacrifice your comfort"
+      ]
+    }
+  },
+  "body": {
+    "templates": [
+      "While {competitors} {distraction}, you {action}.",
+      "The system was designed to keep you {state}. Smart people are focusing on {focus}.",
+      "Choose the pain of {discipline} over the pain of {regret}. Regret is forever."
+    ],
+    "replacements": {
+      "competitors": [
+        "99% of people",
+        "everyone around you",
+        "the masses",
+        "ordinary minds",
+        "average people",
+        "the crowd",
+        "your peers",
+        "the mediocre",
+        "the distracted",
+        "the scroll-addicted"
+      ],
+      "distraction": [
+        "are partying",
+        "are wasting time scrolling",
+        "are chasing temporary thrills",
+        "are sleeping in",
+        "are complaining about the system",
+        "are making excuses",
+        "are resting on their laurels",
+        "are living for the weekend",
+        "are waiting for luck",
+        "are talking about gossip"
+      ],
+      "action": [
+        "grind in silence",
+        "are building your legacy",
+        "focus on self-mastery",
+        "compounded your skills",
+        "are outworking everybody else",
+        "are investing in your own destiny",
+        "execute daily tasks without mercy",
+        "are mastering high-income assets",
+        "are crafting a dynasty",
+        "study the secrets of leverage"
+      ],
+      "state": [
+        "mind-controlled",
+        "dopamine-hooked",
+        "manipulated by media",
+        "blindly obedient"
+      ],
+      "focus": [
+        "automating business processes",
+        "prompt engineering secrets",
+        "mastering neural models",
+        "AI leverage software"
+      ],
+      "discipline": [
+        "discipline",
+        "relentless daily grind",
+        "self-mastery",
+        "silent execution",
+        "ruthless work",
+        "unforgiving focus",
+        "sacrificing comfort",
+        "grinding in the dark",
+        "showing up daily",
+        "outworking your past"
+      ],
+      "regret": [
+        "regret",
+        "average mediocrity",
+        "slow failure",
+        "living a basic life",
+        "a lifetime of excuses",
+        "wasted potential",
+        "being left behind",
+        "staying ordinary",
+        "fitting in",
+        "being forgotten"
+      ]
+    }
+  },
+  "endings": {
+    "templates": [
+      "Be the {adjective} {target} that actually takes action today.",
+      "Your {adjective} {future} is begging you to start.",
+      "Let your {adjective} {results} do the talking.",
+      "Every day you show up is a step closer to your {adjective} {future}."
+    ],
+    "replacements": {
+      "adjective": [
+        "unbelievable",
+        "insane",
+        "ruthless",
+        "unforgiving",
+        "massive",
+        "silent",
+        "lethal",
+        "unstoppable",
+        "disciplined",
+        "obsessed"
+      ],
+      "target": [
+        "top student of life",
+        "sovereign master",
+        "unshakable scholar",
+        "future tycoon"
+      ],
+      "future": [
+        "future self",
+        "tomorrow self",
+        "legacy",
+        "next chapter",
+        "sovereign self",
+        "destiny",
+        "unwritten empire",
+        "ultimate self",
+        "inner beast",
+        "hidden genius"
+      ],
+      "results": [
+        "results",
+        "empire",
+        "success",
+        "wealth",
+        "sovereignty",
+        "legacy",
+        "execution",
+        "formidable build",
+        "silent power",
+        "unstoppable compound"
+      ]
+    }
+  }
+}
